@@ -60,7 +60,7 @@ After creating regression models to predict game outcome in terms of wins and lo
 
 **Team Catapult Analysis**
 
-sdgsgjfshgfhfbfgjgnsxfgnhfgjfjfngaskdljgdojkfngjfdcvb
+
 **Significance Testing**
 
 ### 4. Conclusions
