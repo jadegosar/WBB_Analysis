@@ -53,7 +53,7 @@ By creating clusters of teams in the dataset, we were able to identify ones with
 
 **Creation of Over and Underperformance metric**
 
-After creating regression models to predict game outcome in terms of wins and losses, we decided that only looking at performance through the lens of wins and losses may be limited as it does not account for the variation in wins, such as when the team plays very well compared to games where they get the result but there is still room for improvement. We wanted to address the variation of performance in wins for this team specifically because they were a very high performing team with very few losses across the season. For this reason, we created our own under/overperformance metric that allowed for wins to still be classified as 'underperformances' if the team did not exceed their season average of specific stats.
+After creating regression models to predict game outcome in terms of wins and losses, we decided that only looking at performance through the lens of wins and losses may be limited as it does not account for the variation in wins, such as when the team plays very well compared to games where they get the result but there is still room for improvement. We wanted to address the variation of performance in wins for this team specifically because they were a very high performing team with very few losses across the season. For this reason, we created our own under/overperformance metric that allowed for wins to still be classified as 'underperformances' if the team did not exceed their season average of specific stats. By taking the metrics that had a significant 
 
 <center><img src="wbb_images/EFGperc_viz.png"/></center>
 <center><img src="wbb_images/Performance_metric_viz.png"/></center>
