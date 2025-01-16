@@ -30,7 +30,7 @@ The data sources used for this project were:
 * Results and Findings
 * Final Applications and presentation to Sports Science and Performance Staff
 * Applied similar process to analyze multiple seasons of data after conclusion of 23-24 season
-ppppppppppppppppppppppppppppppppppppppppp
+
 ### 3. Analysis in R Studio
 
 **Exploratory Data Analysis**
