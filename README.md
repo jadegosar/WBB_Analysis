@@ -7,7 +7,7 @@
   * Inform decision-making for practices during game-weeks
 
 This analysis was initially completed for the 22-23 Women's Basketball season and then rerun with additional considerations for the 23-24 season to determine what differentiating factors may exist between the performance across the two seasons.
-''''''''''''''''''''''''''
+
 ### 1. Data Description
 
 The data sources used for this project were:
